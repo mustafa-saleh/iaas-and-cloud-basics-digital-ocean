@@ -1,7 +1,5 @@
 # Cloud & Infrastructure as Service Basics with DigitalOcean
 
-what is IaaS?
-
 IaaS stands for Infrastructure as a Service. It provisions virtualized compute, storage, and networking resources on-demand over the internet, abstracting away physical hardware management.
 
 ## Demo Project
